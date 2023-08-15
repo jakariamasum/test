@@ -1,5 +1,0 @@
-{{#user}
-Name: Jakaria Masum
-Skills: HTML, CSS, JS, React.js
-Email: jakariamasum21@gmail.com
-{{/user}}
